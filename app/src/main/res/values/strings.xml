@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Login And Signup Activity Tutorial</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="already_have_an_account">Already Have an Account?</string>
+    <string name="button">Button</string>
+
+
+    <string name="facebook_app_id">1098788517463514</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">be01234db6c4752550657948450a1003</string>
+
+</resources>

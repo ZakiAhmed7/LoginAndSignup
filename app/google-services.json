@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "106613742976",
+    "project_id": "login-and-signup-activit-4f86f",
+    "storage_bucket": "login-and-signup-activit-4f86f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106613742976:android:9622b5cd7fd8a54a167565",
+        "android_client_info": {
+          "package_name": "com.example.loginandsignupactivitytutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106613742976-cpuumfjgdqsjvml467v6fvi7ijt91uil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxwOTWcJPGjFX9cUzBw1NR0aieqVvQD40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106613742976-cpuumfjgdqsjvml467v6fvi7ijt91uil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
